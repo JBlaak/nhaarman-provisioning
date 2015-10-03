@@ -13,6 +13,7 @@ read -p "Install VLC? [Y/n]: " vlc
 read -p "Install Flux? [Y/n]: " flux
 read -p "Install LTUnify? [Y/n]: " ltunify
 read -p "Install BitTorrent Sync? [Y/n]: " btsync
+read -p "Install brightness indicator? [Y/n]: " brightness
 
 # Upgrade
 sudo apt-get update
@@ -34,6 +35,7 @@ sudo apt-get upgrade -y
 ./flux.sh
 ./ltunify.sh
 ./btsync.sh
+./brightness
 
 # Settings
 ./settings.sh
