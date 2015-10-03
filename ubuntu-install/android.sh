@@ -8,7 +8,7 @@ then
   wget http://dl.google.com/android/android-sdk_r24.3.4-linux.tgz --output-document=sdk.tgz
   mkdir sdk
   tar -xzf sdk.tgz -C sdk
-  sudo mv sdk/ /opt/android-sdk
+  sudo mv sdk/android-sdk-linux /opt/android-sdk
   rm sdk.tgz
 
   wget http://dl.google.com/android/ndk/android-ndk-r10e-linux-x86_64.bin --output-document=ndk.bin
