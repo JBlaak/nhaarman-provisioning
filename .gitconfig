@@ -1,0 +1,10 @@
+[user]
+	email = haarman.niek@gmail.com
+	name = Niek Haarman
+[push]
+	default = simple
+[core]
+	autocrlf = input
+[alias]
+	ammendall = !sh -c 'git add -A && git commit --amend --no-edit' -
+	clean = "!git branch --merged | grep  -v '\\*\\|master\\|dev\\|release' | xargs -n 1 git branch -d"

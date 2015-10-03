@@ -1,0 +1,32 @@
+# Ignore everything
+*
+# Whitelist anything that is a directory
+!*/
+
+# Un-whitelist folders that may contain git repositories
+dev/
+Downloads/
+.local/
+
+# Whitelist files
+!.gitignore
+!.bash_aliases
+!.bash_profile
+!.bashrc
+!.env
+!.gitconfig
+!.gitignore
+!.ideavimrc
+!.vimrc
+
+# Whitelist ubuntu-install folder
+!ubuntu-install/**
+
+# Whitelist part of Android Studio settings
+!.AndroidStudio1.4/config/codestyles/**
+!.AndroidStudio1.4/config/colors/**
+!.AndroidStudio1.4/config/fileTemplates/**
+!.AndroidStudio1.4/config/inspection/**
+!.AndroidStudio1.4/config/keymaps/**
+!.AndroidStudio1.4/config/templates/**
+
