@@ -7,4 +7,4 @@
 	autocrlf = input
 [alias]
 	ammendall = !sh -c 'git add -A && git commit --amend --no-edit' -
-	clean = "!git branch --merged | grep  -v '\\*\\|master\\|dev\\|release' | xargs -n 1 git branch -d"
+	poof = "!git branch --merged | grep  -v '\\*\\|master\\|dev\\|release\\|android' | xargs -n 1 git branch -d"
