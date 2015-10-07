@@ -472,7 +472,7 @@
   <inspection_tool class="InstanceGuardedByStatic" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InstanceMethodNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][A-Za-z\d_]*" />
-    <option name="m_minLength" value="3" />
+    <option name="m_minLength" value="2" />
     <option name="m_maxLength" value="200" />
   </inspection_tool>
   <inspection_tool class="InstanceVariableNamingConvention" enabled="true" level="WARNING" enabled_by_default="true">
