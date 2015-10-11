@@ -543,10 +543,26 @@
         <option name="FOREGROUND" value="d5d125" />
       </value>
     </option>
+    <option name="KOTLIN_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a4af00" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_MUTABLE_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value>
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="LABEL">
@@ -625,6 +641,89 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d2a458" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.ABBREVIATION">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.ANCHOR_LINK">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.EXPLICIT_LINK">
+      <value>
+        <option name="BACKGROUND" value="404c3e" />
+        <option name="EFFECT_COLOR" value="0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="90" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="90" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="90" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="90" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.HEADER_LEVEL_5">
+      <value>
+        <option name="FOREGROUND" value="90" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.HEADER_LEVEL_6">
+      <value>
+        <option name="FOREGROUND" value="90" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.HRULE">
+      <value>
+        <option name="FOREGROUND" value="a448" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.IMAGE">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.QUOTE">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.REFERENCE_IMAGE">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.SPECIAL_TEXT">
+      <value>
+        <option name="BACKGROUND" value="504755" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MULTIMARKDOWN.VERBATIM">
+      <value />
+    </option>
+    <option name="MULTIMARKDOWN.WIKI_LINK_REF">
+      <value>
+        <option name="FOREGROUND" value="ba" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ba" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="Map key">

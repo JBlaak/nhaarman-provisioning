@@ -5,4 +5,5 @@ then
   sudo apt-get update
   sudo apt-get upgrade
   sudo apt-get install -y texstudio
+  sudo apt-get install -y texlive-bibtex-extra
 fi

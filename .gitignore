@@ -8,6 +8,8 @@ dev/
 Downloads/
 .local/
 Documents/
+.heroku/
+
 
 # Whitelist files
 !.gitignore
