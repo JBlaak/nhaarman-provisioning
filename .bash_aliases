@@ -13,3 +13,8 @@ alias h='cd ~'
 alias dev='cd ~/Development'
 alias downloads='cd ~/Downloads'
 alias down='cd ~/Downloads'
+
+# Recursively remove files
+function rmf() {
+  find . -type f -name "$1" -exec rm -v {} \;
+}
