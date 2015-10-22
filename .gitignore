@@ -27,10 +27,10 @@ Documents/
 !ubuntu-install/**
 
 # Whitelist part of Android Studio settings
-!.AndroidStudio1.4/config/codestyles/**
-!.AndroidStudio1.4/config/colors/**
-!.AndroidStudio1.4/config/fileTemplates/**
-!.AndroidStudio1.4/config/inspection/**
-!.AndroidStudio1.4/config/keymaps/**
-!.AndroidStudio1.4/config/templates/**
+!.AndroidStudioPreview1.5/config/codestyles/**
+!.AndroidStudioPreview1.5/config/colors/**
+!.AndroidStudioPreview1.5/config/fileTemplates/**
+!.AndroidStudioPreview1.5/config/inspection/**
+!.AndroidStudioPreview1.5/config/keymaps/**
+!.AndroidStudioPreview1.5/config/templates/**
 

@@ -643,9 +643,6 @@
         <option name="FOREGROUND" value="d2a458" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.ABBREVIATION">
-      <value />
-    </option>
     <option name="MULTIMARKDOWN.ANCHOR_LINK">
       <value>
         <option name="EFFECT_TYPE" value="1" />
@@ -700,23 +697,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.IMAGE">
-      <value />
-    </option>
-    <option name="MULTIMARKDOWN.QUOTE">
-      <value />
-    </option>
-    <option name="MULTIMARKDOWN.REFERENCE_IMAGE">
-      <value />
-    </option>
     <option name="MULTIMARKDOWN.SPECIAL_TEXT">
       <value>
         <option name="BACKGROUND" value="504755" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="MULTIMARKDOWN.VERBATIM">
-      <value />
     </option>
     <option name="MULTIMARKDOWN.WIKI_LINK_REF">
       <value>

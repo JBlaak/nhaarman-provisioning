@@ -282,6 +282,16 @@
   <inspection_tool class="FieldAccessedSynchronizedAndUnsynchronized" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="countGettersAndSetters" value="false" />
   </inspection_tool>
+  <inspection_tool class="FieldCanBeLocal" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="EXCLUDE_ANNOS">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+        </list>
+      </value>
+    </option>
+    <option name="IGNORE_FIELDS_USED_IN_MULTIPLE_METHODS" value="true" />
+  </inspection_tool>
   <inspection_tool class="FieldCount" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_countConstantFields" value="false" />
     <option name="m_considerStaticFinalFieldsConstant" value="false" />
@@ -727,8 +737,8 @@
     <option name="m_maxLength" value="100" />
   </inspection_tool>
   <inspection_tool class="PackageVisibleInnerClass" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreEnums" value="false" />
-    <option name="ignoreInterfaces" value="false" />
+    <option name="ignoreEnums" value="true" />
+    <option name="ignoreInterfaces" value="true" />
   </inspection_tool>
   <inspection_tool class="ParameterHidingMemberVariable" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_ignoreInvisibleFields" value="true" />
