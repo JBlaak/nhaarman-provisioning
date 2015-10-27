@@ -7,6 +7,10 @@ gsettings set org.gnome.desktop.media-handling automount-open false
 # Default Nautilus to list view
 gsettings set org.gnome.nautilus.preferences default-folder-viewer 'list-view'
 
+# Workspaces
+gsettings set org.compiz.core:/org/compiz/profiles/unity/plugins/core/ hsize 2
+gsettings set org.compiz.core:/org/compiz/profiles/unity/plugins/core/ vsize 2
+
 # Disable HUD shortcut
 dconf write /org/compiz/integrated/show-hud '[""]' 
 

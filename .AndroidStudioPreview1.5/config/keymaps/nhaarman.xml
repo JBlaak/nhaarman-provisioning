@@ -24,6 +24,7 @@
     <keyboard-shortcut first-keystroke="control DIVIDE" />
     <keyboard-shortcut first-keystroke="shift control C" />
   </action>
+  <action id="Console.Execute.Multiline" />
   <action id="Console.TableResult.Reload" />
   <action id="CopyPaths" />
   <action id="CopyReference" />
@@ -44,32 +45,48 @@
     <keyboard-shortcut first-keystroke="shift control DOWN" />
   </action>
   <action id="EditorScrollToCenter" />
+  <action id="EditorSplitLine" />
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="F12" />
+  </action>
+  <action id="FindUsages" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift control R" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="F3" />
     <mouse-shortcut keystroke="control button1" />
-    <keyboard-shortcut first-keystroke="control I" />
+    <keyboard-shortcut first-keystroke="control ENTER" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift control T" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="control T" />
     <keyboard-shortcut first-keystroke="control alt B" />
     <keyboard-shortcut first-keystroke="control I" />
   </action>
   <action id="GotoSuperMethod">
-    <keyboard-shortcut first-keystroke="control I" />
+    <keyboard-shortcut first-keystroke="control T" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift control alt N" />
+    <keyboard-shortcut first-keystroke="shift control alt R" />
   </action>
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="F12" />
+  </action>
+  <action id="GuiDesigner.GoToListener">
+    <keyboard-shortcut first-keystroke="control alt B" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift control F12" />
     <keyboard-shortcut first-keystroke="control M" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="KotlinShellExecute" />
   <action id="MethodDown" />
-  <action id="NewClass">
+  <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="shift control N" />
   </action>
   <action id="OpenModuleSettings">
@@ -98,6 +115,10 @@
     <keyboard-shortcut first-keystroke="shift alt S" />
     <keyboard-shortcut first-keystroke="shift alt T" />
   </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="control alt F7" />
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
   </action>
@@ -124,6 +145,7 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="control E" />
   </action>
+  <action id="ViewSource" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="control alt V" />
     <keyboard-shortcut first-keystroke="shift control Q" />
