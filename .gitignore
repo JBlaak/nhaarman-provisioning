@@ -1,15 +1,7 @@
 # Ignore everything
 *
-# Whitelist anything that is a directory
-!*/
-
-# Un-whitelist folders that may contain git repositories
-dev/
-Downloads/
-.local/
-Documents/
-.heroku/
-
+# Whitelist directories
+!ubuntu-install/**
 
 # Whitelist files
 !.gitignore
@@ -22,9 +14,6 @@ Documents/
 !.ideavimrc
 !.vimrc
 !install.sh
-
-# Whitelist ubuntu-install folder
-!ubuntu-install/**
 
 # Whitelist part of Android Studio settings
 !.AndroidStudioPreview1.5/config/codestyles/**
