@@ -17,3 +17,6 @@ dconf write /org/compiz/integrated/show-hud '[""]'
 # Ignore closing of the lid
 printf "\nHandleLidSwitch=ignore" | sudo tee -a /etc/systemd/logind.conf
 sudo restart systemd-logind
+
+# Don't immediately lock after turning off the screen
+gsettings set org.gnome.desktop.screensaver lock-delay 60
