@@ -5,6 +5,7 @@
 
 # Whitelist files
 !.gitignore
+!backup.sh
 !.bash_aliases
 !.bash_profile
 !.bashrc
