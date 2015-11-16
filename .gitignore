@@ -12,6 +12,7 @@
 !.env
 !.gitconfig
 !.gitignore
+!.gradle-tab-completion
 !.ideavimrc
 !.vimrc
 !install.sh

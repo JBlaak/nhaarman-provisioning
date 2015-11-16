@@ -74,5 +74,7 @@ if [ -f ~/.env ]; then
     . ~/.env
 fi
 
-### Added by the Heroku Toolbelt
-export PATH="/usr/local/heroku/bin:$PATH"
+# Gradle auto completion
+if [ -f ~/.gradle-tab-completion]; then
+    . ~/.gradle-tab-completion
+fi
