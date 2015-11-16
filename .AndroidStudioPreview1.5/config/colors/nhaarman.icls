@@ -561,7 +561,6 @@
     </option>
     <option name="KOTLIN_SMART_CAST_VALUE">
       <value>
-        <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>

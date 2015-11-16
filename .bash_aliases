@@ -1,6 +1,9 @@
 # Plextop
 alias plextop='ssh nhaarman@195.64.72.80 -p 8150'
 
+# Gradle wrapper
+alias gw='./gradlew'
+
 # Git
 function clone() {
    git clone git@github.com:$1.git
