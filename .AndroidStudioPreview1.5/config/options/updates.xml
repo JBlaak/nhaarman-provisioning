@@ -1,5 +1,8 @@
 <application>
   <component name="UpdatesConfigurable">
+    <outdatedPlugins>
+      <item value="org.jetbrains.kotlin.android" />
+    </outdatedPlugins>
     <enabledExternalComponentSources>
       <item value="Android SDK" />
     </enabledExternalComponentSources>

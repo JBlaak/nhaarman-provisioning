@@ -1,99 +1,101 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="language-level">
-      <project id="Android" values="JDK_1_7" collectionTime="1447433637762" />
-      <project id="WT" values="JDK_1_7" collectionTime="1447017293079" />
-      <project id="Triad" values="JDK_1_7" collectionTime="1447675443521" />
-      <project id="github" values="JDK_1_7" collectionTime="1447675232120" />
-      <project id="Are You Safe" values="JDK_1_7" collectionTime="1447499946476" />
-      <project id="IdCloud" values="JDK_1_7" collectionTime="1447407710119" />
-      <project id="rp3-rowing-android" values="JDK_1_7" collectionTime="1447323216062" />
-      <project id="travis" values="JDK_1_7" collectionTime="1447365209889" />
-      <project id="regioapps" values="JDK_1_7" collectionTime="1447420435071" />
-      <project id="triad" values="JDK_1_6" collectionTime="1447061968034" />
-    </group>
-    <group name="run-configuration-type-temp">
-      <project id="Android" values="JUnit" collectionTime="1447433637630" />
-      <project id="Triad" values="JUnit,AndroidTestRunConfigurationType" collectionTime="1447675443469" />
-      <project id="WT" values="GroovyScriptRunConfiguration" collectionTime="1447017293012" />
-      <project id="regioapps" values="GroovyScriptRunConfiguration,AndroidRunConfigurationType" collectionTime="1447420434945" />
-      <project id="IdCloud" values="JUnit" collectionTime="1447407710048" />
-    </group>
     <group name="vcs">
-      <project id="Android" values="Git" collectionTime="1447433637629" />
-      <project id="Triad" values="Git" collectionTime="1447675443469" />
+      <project id="Android" values="Git" collectionTime="1447774733195" />
+      <project id="Triad" values="Git" collectionTime="1447750222610" />
       <project id="github" values="Git" collectionTime="1447675232033" />
       <project id="Are You Safe" values="Git" collectionTime="1447499946386" />
       <project id="IdCloud" values="Git" collectionTime="1447407710048" />
       <project id="rp3-rowing-android" values="Git" collectionTime="1447323215954" />
       <project id="travis" values="Git" collectionTime="1447365209783" />
-      <project id="regioapps" values="Git" collectionTime="1447420434944" />
+      <project id="regioapps" values="Git" collectionTime="1447754356594" />
       <project id="triad" values="Git" collectionTime="1447061968011" />
     </group>
-    <group name="VCS Log">
-      <project id="travis" values="vcs.log.git.root.count,vcs.log.commit.count=16" collectionTime="1447365209882" />
-      <project id="IdCloud" values="vcs.log.commit.count=1771,vcs.log.git.root.count" collectionTime="1447407710097" />
-    </group>
-    <group name="Libraries by jars">
-      <project id="IdCloud" values="spring-boot_1.2,spring-core_4.1" collectionTime="1447407710119" />
-    </group>
-    <group name="frameworks">
-      <project id="Android" values="android-gradle,android,java-gradle" collectionTime="1447433637629" />
-      <project id="WT" values="android,java-gradle,android-gradle" collectionTime="1447017293012" />
-      <project id="Triad" values="android,android-gradle,java-gradle" collectionTime="1447675443469" />
-      <project id="github" values="android,android-gradle,java-gradle" collectionTime="1447675232034" />
-      <project id="Are You Safe" values="android-gradle,android,java-gradle" collectionTime="1447499946386" />
-      <project id="IdCloud" values="java-gradle,android,android-gradle" collectionTime="1447407710048" />
-      <project id="rp3-rowing-android" values="java-gradle,android,android-gradle" collectionTime="1447323215954" />
-      <project id="travis" values="java-gradle,android,android-gradle" collectionTime="1447365209783" />
-      <project id="regioapps" values="java-gradle,android-gradle,android" collectionTime="1447420434944" />
-      <project id="triad" values="android-gradle,android" collectionTime="1447061968011" />
-    </group>
-    <group name="file-type">
-      <project id="Android" values="ObjectiveC,Groovy,Properties,UNKNOWN,HTML,JAVA,CSS,IDEA_MODULE,ProGuard File,Allocations,AIDL,PLAIN_TEXT,ARCHIVE,XML,Images" collectionTime="1447433637744" />
-      <project id="WT" values="XML,PLAIN_TEXT,ProGuard File,Kotlin,ARCHIVE,JAVA,IDEA_MODULE,Images,Groovy,UNKNOWN,Properties" collectionTime="1447017293075" />
-      <project id="Triad" values="JSON,SPI,ARCHIVE,JAVA,PLAIN_TEXT,IDEA_MODULE,AIDL,CLASS,Images,Properties,UNKNOWN,Groovy,XML" collectionTime="1447675443518" />
-      <project id="github" values="Images,IDEA_MODULE,AIDL,PLAIN_TEXT,ARCHIVE,Groovy,XML,JAVA,Kotlin,ProGuard File,Properties,UNKNOWN" collectionTime="1447675232109" />
-      <project id="Are You Safe" values="Groovy,IDEA_MODULE,ProGuard File,Images,ARCHIVE,Properties,AIDL,XML,PLAIN_TEXT,JAVA,Kotlin,UNKNOWN" collectionTime="1447499946465" />
-      <project id="IdCloud" values="XML,AIDL,ARCHIVE,Images,IDEA_MODULE,ProGuard File,JAVA,Groovy,ObjectiveC,UNKNOWN,Properties,Allocations,PLAIN_TEXT,CSS,HTML" collectionTime="1447407710094" />
-      <project id="rp3-rowing-android" values="AIDL,Properties,XML,ARCHIVE,CLASS,Images,UNKNOWN,SQL,JAVA,PLAIN_TEXT,Groovy,Allocations,ProGuard File,IDEA_MODULE" collectionTime="1447323216048" />
-      <project id="travis" values="Properties,Images,ProGuard File,ARCHIVE,UNKNOWN,IDEA_MODULE,JAVA,XML,Groovy,PLAIN_TEXT" collectionTime="1447365209874" />
-      <project id="regioapps" values="IDEA_MODULE,XML,JAVA,PLAIN_TEXT,Images,Properties,ARCHIVE,Groovy,AIDL,UNKNOWN" collectionTime="1447420435058" />
-      <project id="triad" values="ARCHIVE,UNKNOWN,IDEA_MODULE,PLAIN_TEXT,Properties,Images,JAVA,XML,Groovy" collectionTime="1447061968028" />
+    <group name="run-configuration-type-temp">
+      <project id="Android" values="JUnit" collectionTime="1447774733198" />
+      <project id="Triad" values="AndroidTestRunConfigurationType,JUnit" collectionTime="1447750222610" />
+      <project id="WT" values="GroovyScriptRunConfiguration" collectionTime="1447017293012" />
+      <project id="regioapps" values="AndroidRunConfigurationType,GroovyScriptRunConfiguration" collectionTime="1447754356595" />
+      <project id="IdCloud" values="JUnit" collectionTime="1447407710048" />
     </group>
     <group name="run-configuration-type">
-      <project id="Android" values="AndroidRunConfigurationType" collectionTime="1447433637630" />
+      <project id="Android" values="AndroidRunConfigurationType" collectionTime="1447774733198" />
       <project id="WT" values="AndroidRunConfigurationType" collectionTime="1447017293012" />
-      <project id="Triad" values="AndroidTestRunConfigurationType,AndroidRunConfigurationType" collectionTime="1447675443469" />
-      <project id="github" values="AndroidRunConfigurationType,JUnit" collectionTime="1447675232034" />
+      <project id="Triad" values="AndroidTestRunConfigurationType,AndroidRunConfigurationType" collectionTime="1447750222610" />
+      <project id="github" values="JUnit,AndroidRunConfigurationType" collectionTime="1447675232034" />
       <project id="Are You Safe" values="AndroidRunConfigurationType" collectionTime="1447499946387" />
       <project id="IdCloud" values="AndroidRunConfigurationType" collectionTime="1447407710048" />
       <project id="rp3-rowing-android" values="AndroidRunConfigurationType" collectionTime="1447323215955" />
       <project id="travis" values="AndroidRunConfigurationType" collectionTime="1447365209784" />
-      <project id="regioapps" values="AndroidRunConfigurationType" collectionTime="1447420434945" />
+      <project id="regioapps" values="AndroidRunConfigurationType" collectionTime="1447754356594" />
+    </group>
+    <group name="VCS Log">
+      <project id="Android" values="vcs.log.git.root.count,vcs.log.commit.count=1863" collectionTime="1447774733274" />
+      <project id="IdCloud" values="vcs.log.commit.count=1771,vcs.log.git.root.count" collectionTime="1447407710097" />
+      <project id="travis" values="vcs.log.git.root.count,vcs.log.commit.count=16" collectionTime="1447365209882" />
+    </group>
+    <group name="language-level">
+      <project id="Android" values="JDK_1_7" collectionTime="1447774733292" />
+      <project id="WT" values="JDK_1_7" collectionTime="1447017293079" />
+      <project id="Triad" values="JDK_1_7" collectionTime="1447750222745" />
+      <project id="github" values="JDK_1_7" collectionTime="1447675232120" />
+      <project id="Are You Safe" values="JDK_1_7" collectionTime="1447499946476" />
+      <project id="IdCloud" values="JDK_1_7" collectionTime="1447407710119" />
+      <project id="rp3-rowing-android" values="JDK_1_7" collectionTime="1447323216062" />
+      <project id="travis" values="JDK_1_7" collectionTime="1447365209889" />
+      <project id="regioapps" values="JDK_1_7" collectionTime="1447754356721" />
+      <project id="triad" values="JDK_1_6" collectionTime="1447061968034" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="Android" values="spring-core_4.1,spring-boot_1.2" collectionTime="1447774733291" />
+      <project id="IdCloud" values="spring-boot_1.2,spring-core_4.1" collectionTime="1447407710119" />
+    </group>
+    <group name="frameworks">
+      <project id="Android" values="android-gradle,android,java-gradle" collectionTime="1447774733195" />
+      <project id="WT" values="java-gradle,android-gradle,android" collectionTime="1447017293012" />
+      <project id="Triad" values="android-gradle,android,java-gradle" collectionTime="1447750222610" />
+      <project id="github" values="android,java-gradle,android-gradle" collectionTime="1447675232034" />
+      <project id="Are You Safe" values="android-gradle,android,java-gradle" collectionTime="1447499946386" />
+      <project id="IdCloud" values="java-gradle,android-gradle,android" collectionTime="1447407710048" />
+      <project id="rp3-rowing-android" values="android,android-gradle,java-gradle" collectionTime="1447323215954" />
+      <project id="travis" values="android-gradle,android,java-gradle" collectionTime="1447365209783" />
+      <project id="regioapps" values="java-gradle,android,android-gradle" collectionTime="1447754356594" />
+      <project id="triad" values="android-gradle,android" collectionTime="1447061968011" />
+    </group>
+    <group name="file-type">
+      <project id="Android" values="Images,PLAIN_TEXT,JAVA,IDEA_MODULE,CLASS,AIDL,ObjectiveC,Groovy,XML,ARCHIVE,Manifest,ProGuard File,UNKNOWN,Allocations,Properties" collectionTime="1447774733262" />
+      <project id="WT" values="Kotlin,IDEA_MODULE,Properties,PLAIN_TEXT,ARCHIVE,JAVA,ProGuard File,Groovy,Images,UNKNOWN,XML" collectionTime="1447017293075" />
+      <project id="Triad" values="Properties,JAVA,Images,XML,Groovy,JSON,UNKNOWN,AIDL,PLAIN_TEXT,IDEA_MODULE,ARCHIVE" collectionTime="1447750222735" />
+      <project id="github" values="IDEA_MODULE,Groovy,UNKNOWN,Images,Kotlin,ARCHIVE,XML,Properties,PLAIN_TEXT,ProGuard File,JAVA,AIDL" collectionTime="1447675232109" />
+      <project id="Are You Safe" values="UNKNOWN,Kotlin,XML,AIDL,JAVA,Images,Properties,Groovy,PLAIN_TEXT,ARCHIVE,ProGuard File,IDEA_MODULE" collectionTime="1447499946465" />
+      <project id="IdCloud" values="ObjectiveC,ARCHIVE,IDEA_MODULE,Groovy,AIDL,HTML,ProGuard File,PLAIN_TEXT,Images,UNKNOWN,XML,Allocations,JAVA,CSS,Properties" collectionTime="1447407710094" />
+      <project id="rp3-rowing-android" values="Groovy,IDEA_MODULE,CLASS,UNKNOWN,Allocations,ProGuard File,PLAIN_TEXT,Properties,Images,JAVA,XML,SQL,AIDL,ARCHIVE" collectionTime="1447323216048" />
+      <project id="travis" values="Images,XML,PLAIN_TEXT,Properties,Groovy,IDEA_MODULE,ARCHIVE,ProGuard File,UNKNOWN,JAVA" collectionTime="1447365209874" />
+      <project id="regioapps" values="ARCHIVE,AIDL,PLAIN_TEXT,UNKNOWN,IDEA_MODULE,Groovy,Images,JAVA,XML,Properties" collectionTime="1447754356711" />
+      <project id="triad" values="ARCHIVE,UNKNOWN,Images,Groovy,PLAIN_TEXT,XML,Properties,IDEA_MODULE,JAVA" collectionTime="1447061968028" />
     </group>
     <group name="module type">
-      <project id="Android" values="JAVA_MODULE" collectionTime="1447433637629" />
+      <project id="Android" values="JAVA_MODULE" collectionTime="1447774733195" />
       <project id="WT" values="JAVA_MODULE" collectionTime="1447017293012" />
-      <project id="Triad" values="JAVA_MODULE" collectionTime="1447675443469" />
+      <project id="Triad" values="JAVA_MODULE" collectionTime="1447750222610" />
       <project id="github" values="JAVA_MODULE" collectionTime="1447675232034" />
       <project id="Are You Safe" values="JAVA_MODULE" collectionTime="1447499946387" />
       <project id="IdCloud" values="JAVA_MODULE" collectionTime="1447407710048" />
       <project id="rp3-rowing-android" values="JAVA_MODULE" collectionTime="1447323215954" />
       <project id="travis" values="JAVA_MODULE" collectionTime="1447365209783" />
-      <project id="regioapps" values="JAVA_MODULE" collectionTime="1447420434944" />
+      <project id="regioapps" values="JAVA_MODULE" collectionTime="1447754356594" />
       <project id="triad" values="JAVA_MODULE" collectionTime="1447061968011" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="execute.AndroidRunConfigurationType.Debug" count="90" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="491" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="92" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="611" />
       <entry feature="execute.AndroidTestRunConfigurationType.Run" count="14" />
-      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="4" />
-      <entry feature="execute.JUnit.Debug" count="18" />
-      <entry feature="execute.JUnit.Run" count="255" />
-      <entry feature="execute.Remote.Debug" count="4" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="5" />
+      <entry feature="execute.JUnit.Debug" count="24" />
+      <entry feature="execute.JUnit.Run" count="330" />
+      <entry feature="execute.Remote.Debug" count="5" />
       <entry feature="ide.settings.Appearance" count="1" />
       <entry feature="ide.settings.Code_Folding" count="1" />
       <entry feature="ide.settings.Code_Style" count="6" />
@@ -108,7 +110,7 @@
       <entry feature="ide.settings.Updates" count="1" />
       <entry feature="ide.settings.Vim_Emulation" count="1" />
       <entry feature="ide.settings.XML" count="1" />
-      <entry feature="ideaapp.started" count="41" />
+      <entry feature="ideaapp.started" count="46" />
     </counts>
   </component>
 </application>

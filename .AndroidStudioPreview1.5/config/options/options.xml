@@ -17,7 +17,7 @@
     <property name="PLUGIN_FILTER" value="kotlin&#10;ideavim" />
     <property name="installed.kotlin.plugin.version" value="1.0.0-beta-2423-IJ141-19" />
     <property name="default.storage.format" value=".idea (directory based)" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop&#10;/home/nhaarman/dev/label305/idcloud/Android/build.gradle&#10;/home/nhaarman/dev/nhaarman/github/build.gradle&#10;/home/nhaarman/dev/nhaarman/Triad/build.gradle&#10;/home/nhaarman/dev/nhaarman/triad/build.gradle&#10;/home/nhaarman/dev/label305/regioapps/build.gradle&#10;/home/nhaarman/dev/label305/rp3-rowing-android/build.gradle&#10;/home/nhaarman/dev/nhaarman/travis/build.gradle" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop&#10;/home/nhaarman/Downloads/commission.svg&#10;/home/nhaarman/dev/label305/idcloud/Android/build.gradle&#10;/home/nhaarman/dev/nhaarman/github/build.gradle&#10;/home/nhaarman/dev/nhaarman/Triad/build.gradle&#10;/home/nhaarman/dev/nhaarman/triad/build.gradle&#10;/home/nhaarman/dev/label305/regioapps/build.gradle&#10;/home/nhaarman/dev/label305/rp3-rowing-android/build.gradle&#10;/home/nhaarman/dev/nhaarman/travis/build.gradle" />
     <property name="last.imported.location" value="$USER_HOME$/dev/label305/regioapps/build.gradle" />
     <property name="lastTip" value="12" />
     <property name="file.colors.enable.non.project" value="494539" />
@@ -79,9 +79,9 @@
     <property name="AndroidEnableDdms" value="true" />
     <property name="SAVED_COMPANY_DOMAIN" value="nhaarman.com" />
     <property name="MobileminApi" value="16" />
-    <property name="kotlin.lastUpdateCheck" value="1447670577250" />
+    <property name="kotlin.lastUpdateCheck" value="1447779652424" />
     <property name="KEYMAP" value="implementation&#10;gradle" />
-    <property name="studio.activity.count" value="235" />
+    <property name="studio.activity.count" value="221" />
     <property name="create.member.preselect.anonymous" value="false" />
     <property name="Copy.OpenInEditor" value="true" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
@@ -100,5 +100,6 @@
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
     <property name="color.picker.is.hsb" value="false" />
     <property name="ColorChooser.RecentColors" value="144-144-144-255" />
+    <property name="MoveFile.OpenInEditor" value="true" />
   </component>
 </application>
