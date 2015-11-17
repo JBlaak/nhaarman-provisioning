@@ -75,6 +75,6 @@ if [ -f ~/.env ]; then
 fi
 
 # Gradle auto completion
-if [ -f ~/.gradle-tab-completion]; then
-    . ~/.gradle-tab-completion
-fi
+#if [ -f ~/.gradle-tab-completion ]; then
+    #. ~/.gradle-tab-completion
+#fi
