@@ -15,6 +15,8 @@
 !.gradle-tab-completion
 !.ideavimrc
 !.vimrc
+!.zshrc
+!.zsh_aliases
 !install.sh
 
 # Whitelist part of Android Studio settings

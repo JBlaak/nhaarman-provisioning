@@ -35,7 +35,8 @@ sudo apt-get upgrade -y
 ./flux.sh
 ./ltunify.sh
 ./btsync.sh
-./brightness
+./brightness-indicator.sh
+./zsh.sh
 
 # Settings
 ./settings.sh
