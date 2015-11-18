@@ -1,6 +1,6 @@
 if [ "$android" = "y" ] || [ "$android" = "" ] ;
 then
-  wget https://dl.google.com/dl/android/studio/ide-zips/1.5.0.3/android-studio-ide-141.2415497-linux.zip --output-document=studio.zip
+  wget https://dl.google.com/dl/android/studio/ide-zips/1.5.0.4/android-studio-ide-141.2422023-linux.zip --output-document=studio.zip
   unzip studio.zip
   sudo mv android-studio/ /opt/android-studio
   rm studio.zip
