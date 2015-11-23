@@ -5,7 +5,7 @@
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="robbyrussell"
+ZSH_THEME="avit"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -53,7 +53,7 @@ plugins=(adb gradle zsh-syntax-highlighting)
 
 # User configuration
 
-  export PATH="/opt/composer:/home/nhaarman/bin:/usr/lib/jvm/java-7-oracle/bin:/home/nhaarman/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/opt/android-sdk/tools:/opt/android-sdk/platform-tools:/opt/android-ndk:/opt/btsync"
+  export PATH="/opt/composer:/home/nhaarman/bin:/usr/lib/jvm/java-7-oracle/bin:/home/nhaarman/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/opt/android-sdk/tools:/opt/android-sdk/platform-tools:/opt/android-ndk:/opt/btsync:/home/nhaarman/dev/FMT/program-verification-tools/vercors/git/unix/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
