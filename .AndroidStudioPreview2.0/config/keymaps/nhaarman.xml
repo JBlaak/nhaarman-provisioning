@@ -1,0 +1,154 @@
+<keymap version="1" name="nhaarman" parent="Eclipse">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="AutoIndentLines" />
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
+  <action id="CloneElement" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.Reload" />
+  <action id="CopyPaths" />
+  <action id="CopyReference" />
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorMatchBrace" />
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSplitLine" />
+  <action id="ExternalSystem.OpenConfig">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="FindUsages" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="Graph.Faces.OpenSelectedPages">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="GuiDesigner.GoToListener">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="IncrementWindowHeight" />
+  <action id="KotlinShellExecute" />
+  <action id="MethodDown" />
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="OpenModuleSettings">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="RecentChangedFiles" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Rerun" />
+  <action id="ResizeToolWindowDown" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="ScrollTreeToCenter" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="ViewSource" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+</keymap>
