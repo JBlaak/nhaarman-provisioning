@@ -20,18 +20,4 @@
 !install.sh
 
 # Whitelist part of Android Studio settings
-!.AndroidStudio1.5/config/codestyles/**
-!.AndroidStudio1.5/config/colors/**
-!.AndroidStudio1.5/config/fileTemplates/**
-!.AndroidStudio1.5/config/inspection/**
-!.AndroidStudio1.5/config/keymaps/**
-!.AndroidStudio1.5/config/templates/**
 
-!.AndroidStudio1.5/config/options/androidEditors.xml
-!.AndroidStudio1.5/config/options/code.style.schemes.xml
-!.AndroidStudio1.5/config/options/colors.scheme.xml
-!.AndroidStudio1.5/config/options/customization.xml
-!.AndroidStudio1.5/config/options/editor.codeinsight.xml
-!.AndroidStudio1.5/config/options/ide.general.xml
-!.AndroidStudio1.5/config/options/keymap.xml
-!.AndroidStudio1.5/config/options/ui.lnf.xml
