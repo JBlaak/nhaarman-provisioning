@@ -204,9 +204,7 @@
     <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="6" />
     </indentOptions>
     <arrangement>
       <rules>
@@ -659,9 +657,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="6" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
