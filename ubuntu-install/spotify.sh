@@ -1,7 +1,7 @@
 if [ "$spotify" = "y" ] || [ "$spotify" = "" ] ;
 then
-  sudo sh -c "echo 'deb http://repository.spotify.com stable non-free' >> /etc/apt/sources.list"
-  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 94558F59
+  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys D2C19886
+  echo deb http://repository.spotify.com testing non-free | sudo tee /etc/apt/sources.list.d/spotify.list
   sudo apt-get update
-  sudo apt-get install -y --force-yes spotify-client
+  sudo apt-get install -y spotify-client
 fi
