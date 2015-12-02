@@ -4,6 +4,9 @@ gsettings set org.gnome.gedit.preferences.editor create-backup-copy false
 # Disable auto-opening Nautilus window after auto-mount
 gsettings set org.gnome.desktop.media-handling automount-open false
 
+# Disable sticky edges
+dconf write /org/compiz/profiles/unity/plugins/unityshell/launcher-capture-mouse false
+
 # Default Nautilus to list view
 gsettings set org.gnome.nautilus.preferences default-folder-viewer 'list-view'
 
