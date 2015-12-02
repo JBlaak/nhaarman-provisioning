@@ -6,7 +6,6 @@ then
   make install-home
   cd ..
   rm -rf ltunify
-  sudo apt-get remove -y gcc
 
   if [ "$devtools" = "n" ] ;
   then
