@@ -86,3 +86,7 @@ source $ZSH/oh-my-zsh.sh
 if [ -f ~/.zsh_aliases ]; then
 	. ~/.zsh_aliases
 fi
+
+if [ -f ~/.env ]; then
+	. ~/.env
+fi

@@ -3,22 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/build.gradle" timestamp="1449220833926">
+        <mark key="]" line="7" column="61" />
+        <mark key="^" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+        <mark key="[" line="7" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad/src/main/java/com/nhaarman/triad/TriadApplication.java" timestamp="1448709146932">
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="[" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/Triad/triad-tests/src/androidTest/java/com/nhaarman/triad/RotationScreenTransitionTest.java" timestamp="1448711112070">
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="87" column="49" />
-        <mark key="." line="69" column="0" />
-        <mark key="[" line="69" column="0" />
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/devices/idhandv2-java/src/main/java/com/nedap/retail/idcloud/devices/idhandv2/FailingReader.java" timestamp="1449578282262">
+        <mark key="]" line="95" column="75" />
+        <mark key="^" line="95" column="75" />
+        <mark key="." line="95" column="75" />
+        <mark key="[" line="91" column="5" />
       </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/drawer/DrawerView.java" timestamp="1447062037185">
         <mark key="]" line="58" column="0" />
         <mark key="^" line="77" column="46" />
         <mark key="." line="58" column="0" />
         <mark key="[" line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/Triad/triad-tests/src/androidTest/java/com/nhaarman/triad/RotationScreenTransitionTest.java" timestamp="1448711112070">
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="87" column="49" />
+        <mark key="." line="69" column="0" />
+        <mark key="[" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/test/kotlin/com/nhaarman/github/app/retrieveuser/RetrieveUserPresenterTest.kt" timestamp="1448727095600">
         <mark key="]" line="152" column="0" />
@@ -32,17 +44,17 @@
         <mark key="." line="94" column="18" />
         <mark key="[" line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/util/SchedulerProviderImpl.java" timestamp="1447148480033">
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
-        <mark key="[" line="16" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/aboutregion/AboutRegionScreen.java" timestamp="1447062981873">
         <mark key="]" line="18" column="37" />
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
         <mark key="[" line="17" column="63" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/util/SchedulerProviderImpl.java" timestamp="1447148480033">
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="[" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/MyApplication/app/src/main/res/layout/activity_main.xml" timestamp="1448386057197">
         <mark key="]" line="12" column="21" />
@@ -50,16 +62,16 @@
         <mark key="." line="12" column="21" />
         <mark key="[" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/business/src/main/kotlin/com/nhaarman/github/business/Issues.kt" timestamp="1448798217336">
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad-sample/business/build.gradle" timestamp="1448703546697">
         <mark key="]" line="8" column="20" />
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
         <mark key="[" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/business/src/main/kotlin/com/nhaarman/github/business/Issues.kt" timestamp="1448798217336">
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/view/Toolbar.java" timestamp="1447062117097">
         <mark key="]" line="43" column="19" />
@@ -102,6 +114,12 @@
         <mark key="." line="47" column="18" />
         <mark key="[" line="47" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/test/java/com/nedap/retail/idcloud/countlocation/CheckAndSendButtonPresenterTest.java" timestamp="1449224070331">
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="69" column="52" />
+        <mark key="." line="26" column="0" />
+        <mark key="[" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/AreYouSafe/app/src/main/res/values/styles.xml" timestamp="1447498839564">
         <mark key="]" line="7" column="60" />
         <mark key="^" line="7" column="60" />
@@ -138,10 +156,10 @@
         <mark key="." line="9" column="8" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/IssuesCardContainer.kt" timestamp="1448801363690">
-        <mark key="]" line="4" column="8" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/IssuesCardContainer.kt" timestamp="1449348709499">
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+        <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/res/layout/view_searchlist_child.xml" timestamp="1448450914568">
@@ -149,17 +167,17 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/widget/JavaTest.java" timestamp="1447398879635">
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="9" column="17" />
-        <mark key="[" line="9" column="17" />
-      </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/countlocation/TitleView.java" timestamp="1447406014099">
         <mark key="]" line="52" column="32" />
         <mark key="^" line="52" column="36" />
         <mark key="." line="52" column="32" />
         <mark key="[" line="52" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/widget/JavaTest.java" timestamp="1447398879635">
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="9" column="17" />
+        <mark key="[" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/view/MenuItemView.java" timestamp="1447418134956">
         <mark key="]" line="64" column="0" />
@@ -167,17 +185,17 @@
         <mark key="." line="64" column="0" />
         <mark key="[" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/expect/src/test/kotlin/com/nhaarman/expect/MatcherTest.kt" timestamp="1447689149513">
-        <mark key="]" line="193" column="12" />
-        <mark key="^" line="193" column="12" />
-        <mark key="." line="193" column="12" />
-        <mark key="[" line="190" column="25" />
-      </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad/src/main/java/com/nhaarman/triad/TriadActivity.java" timestamp="1447327342345">
         <mark key="]" line="61" column="0" />
         <mark key="^" line="60" column="42" />
         <mark key="." line="61" column="0" />
         <mark key="[" line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/expect/src/test/kotlin/com/nhaarman/expect/MatcherTest.kt" timestamp="1447689149513">
+        <mark key="]" line="193" column="12" />
+        <mark key="^" line="193" column="12" />
+        <mark key="." line="193" column="12" />
+        <mark key="[" line="190" column="25" />
       </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/childlocationgroup/LocationsListView.java" timestamp="1447337764270">
         <mark key="]" line="91" column="67" />
@@ -185,11 +203,22 @@
         <mark key="." line="91" column="67" />
         <mark key="[" line="91" column="67" />
       </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoAppBarContainer.kt" timestamp="1449348795978">
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/business_logic/src/main/java/com/nedap/retail/idcloud/cyclecount/DifferenceList.java" timestamp="1447084357106">
         <mark key="]" line="129" column="77" />
         <mark key="^" line="129" column="77" />
         <mark key="." line="129" column="77" />
         <mark key="[" line="129" column="72" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/res/layout/fragment_searcharticles.xml" timestamp="1449220419991">
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/splash/SplashPresenter.java" timestamp="1447063230699">
         <mark key="]" line="91" column="24" />
@@ -244,17 +273,23 @@
         <mark key="." line="40" column="0" />
         <mark key="[" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/OAuthCodeActivity.kt" timestamp="1447530522176">
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="35" column="18" />
-        <mark key="." line="46" column="0" />
-        <mark key="[" line="46" column="0" />
+      <file name="$USER_HOME$/dev/label305/slimbeam/lib/src/main/kotlin/com/label305/nohrd/slimbeam/lib/extensions/PauseForButterflyMovementExtension.kt" timestamp="1449735050010">
+        <mark key="]" line="29" column="8" />
+        <mark key="^" line="29" column="8" />
+        <mark key="." line="29" column="8" />
+        <mark key="[" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad/src/main/java/com/nhaarman/triad/AdapterRelativeLayoutContainer.java" timestamp="1447327674065">
         <mark key="]" line="15" column="28" />
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
         <mark key="[" line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/OAuthCodeActivity.kt" timestamp="1447530522176">
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="35" column="18" />
+        <mark key="." line="46" column="0" />
+        <mark key="[" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/twente/java/com/label305/regioapp/locationgroup/LocationGroupView.java" timestamp="1447335794376">
         <mark key="]" line="100" column="3" />
@@ -298,6 +333,12 @@
         <mark key="." line="28" column="38" />
         <mark key="[" line="28" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/register/RegistrationUtil.java" timestamp="1449234123070">
+        <mark key="]" line="78" column="37" />
+        <mark key="^" line="78" column="37" />
+        <mark key="." line="78" column="37" />
+        <mark key="[" line="78" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/ApplicationComponent.java" timestamp="1447063687709">
         <mark key="]" line="65" column="101" />
         <mark key="^" line="65" column="101" />
@@ -316,6 +357,12 @@
         <mark key="." line="31" column="51" />
         <mark key="[" line="31" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/countlocation/CountLocationActivity.java" timestamp="1449223805763">
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="15" column="166" />
+        <mark key="." line="37" column="0" />
+        <mark key="[" line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/inbox/RepoContainer.kt" timestamp="1447511423974">
         <mark key="]" line="28" column="48" />
         <mark key="^" line="28" column="48" />
@@ -333,6 +380,17 @@
         <mark key="^" line="42" column="24" />
         <mark key="." line="42" column="24" />
         <mark key="[" line="41" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/searcharticles/Item.java" timestamp="1449219062650">
+        <mark key="]" line="63" column="41" />
+        <mark key="^" line="63" column="41" />
+        <mark key="." line="63" column="41" />
+        <mark key="[" line="62" column="55" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/countlocation/ItemsScannedPresenter.java" timestamp="1449221741088">
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad-sample/app/src/main/java/com/nhaarman/triad/sample/NotesApplication.java" timestamp="1447326728651">
         <mark key="]" line="23" column="0" />
@@ -424,6 +482,12 @@
         <mark key="." line="27" column="0" />
         <mark key="[" line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/program/write/FUException.java" timestamp="1449586376390">
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="[" line="2" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/register/CustomScannerActivity.java" timestamp="1448973384313">
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -440,6 +504,12 @@
         <mark key="^" line="12" column="89" />
         <mark key="." line="19" column="0" />
         <mark key="[" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/devices/idhandv2-domain/src/main/java/com/nedap/retail/idcloud/devices/domain/RfidReader.java" timestamp="1449584924945">
+        <mark key="]" line="59" column="68" />
+        <mark key="^" line="59" column="68" />
+        <mark key="." line="59" column="68" />
+        <mark key="[" line="59" column="67" />
       </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/eventdetail/EventDetailView.java" timestamp="1447062923098">
         <mark key="]" line="27" column="99" />
@@ -483,11 +553,17 @@
         <mark key="." line="91" column="7" />
         <mark key="[" line="149" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/IssuesCardPresenter.kt" timestamp="1448910634077">
-        <mark key="]" line="26" column="40" />
-        <mark key="^" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="[" line="25" column="56" />
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/MainActivity.java" timestamp="1449564838414">
+        <mark key="]" line="61" column="38" />
+        <mark key="^" line="61" column="38" />
+        <mark key="." line="61" column="38" />
+        <mark key="[" line="61" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/IssuesCardPresenter.kt" timestamp="1449348762421">
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/common/build.gradle" timestamp="1447702357165">
         <mark key="]" line="11" column="0" />
@@ -513,17 +589,23 @@
         <mark key="." line="30" column="39" />
         <mark key="[" line="29" column="31" />
       </file>
+      <file name="$USER_HOME$/Desktop/MyApplication/app/src/main/java/com/nhaarman/myapplication/MainActivity.java" timestamp="1448399415400">
+        <mark key="]" line="29" column="33" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="29" column="33" />
+        <mark key="[" line="29" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/myrepos/MyReposScreen.java" timestamp="1447541796168">
         <mark key="]" line="35" column="36" />
         <mark key="^" line="36" column="3" />
         <mark key="." line="35" column="36" />
         <mark key="[" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/MyApplication/app/src/main/java/com/nhaarman/myapplication/MainActivity.java" timestamp="1448399415400">
-        <mark key="]" line="29" column="33" />
-        <mark key="^" line="29" column="34" />
-        <mark key="." line="29" column="33" />
-        <mark key="[" line="29" column="33" />
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/res/layout/fragment_countlocation_checkandsend.xml" timestamp="1449226282896">
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="[" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/dev/label305/rp3-rowing-android/app/src/main/java/com/label305/row_perfect/app/session/SessionPresenter.java" timestamp="1447066668335">
         <mark key="]" line="136" column="37" />
@@ -531,11 +613,22 @@
         <mark key="." line="136" column="37" />
         <mark key="[" line="136" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/test/java/com/nedap/retail/idcloud/searcharticles/ItemTest.java" timestamp="1449219867660">
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="35" column="0" />
+        <mark key="[" line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/inbox/InboxView.kt" timestamp="1447528518395">
         <mark key="]" line="55" column="0" />
         <mark key="^" line="151" column="83" />
         <mark key="." line="55" column="0" />
         <mark key="[" line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/slimbeam/data-slimbeam/src/main/kotlin/com/label305/nohrd/slimbeam/data_slimbeam/SlimbeamDataProvider.kt" timestamp="1449683791537">
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/test/java/com/nedap/retail/idcloud/countlocation/TitlePresenterTest.java" timestamp="1447405196244">
         <mark key="]" line="139" column="30" />
@@ -543,17 +636,17 @@
         <mark key="." line="139" column="30" />
         <mark key="[" line="138" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/api/src/main/java/com/nhaarman/github/api/AuthorizationInterceptor.java" timestamp="1447523419588">
-        <mark key="]" line="40" column="85" />
-        <mark key="^" line="40" column="85" />
-        <mark key="." line="40" column="85" />
-        <mark key="[" line="40" column="87" />
-      </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/view/TypeFacedTextView.java" timestamp="1447767365307">
         <mark key="]" line="63" column="69" />
         <mark key="^" line="63" column="69" />
         <mark key="." line="63" column="69" />
         <mark key="[" line="63" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/api/src/main/java/com/nhaarman/github/api/AuthorizationInterceptor.java" timestamp="1447523419588">
+        <mark key="]" line="40" column="85" />
+        <mark key="^" line="40" column="85" />
+        <mark key="." line="40" column="85" />
+        <mark key="[" line="40" column="87" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/common/src/test/java/com/nhaarman/github/util/A.java" timestamp="1447688338310">
         <mark key="]" line="8" column="15" />
@@ -579,6 +672,12 @@
         <mark key="." line="39" column="27" />
         <mark key="[" line="38" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/countlocation/CheckAndSendButtonPresenter.java" timestamp="1449226528819">
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="40" column="23" />
+        <mark key="[" line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/res/layout/view_locationdetail_image.xml" timestamp="1447341438640">
         <mark key="]" line="3" column="29" />
         <mark key="^" line="3" column="29" />
@@ -597,23 +696,23 @@
         <mark key="." line="9" column="0" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/common/src/test/kotlin/com/nhaarman/github/util/A.kt" timestamp="1447688527345">
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="9" column="28" />
-        <mark key="[" line="9" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad/src/main/java/com/nhaarman/triad/ListViewContainer.java" timestamp="1447327447912">
         <mark key="]" line="36" column="3" />
         <mark key="^" line="36" column="3" />
         <mark key="." line="36" column="3" />
         <mark key="[" line="35" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/PullRequestsCardPresenter.kt" timestamp="1448910820474">
-        <mark key="]" line="26" column="40" />
+      <file name="$USER_HOME$/dev/nhaarman/github/common/src/test/kotlin/com/nhaarman/github/util/A.kt" timestamp="1447688527345">
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="28" />
+        <mark key="[" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/PullRequestsCardPresenter.kt" timestamp="1449348788255">
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="[" line="25" column="68" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/retrieveuser/RetrieveUserContainer.kt" timestamp="1447527899645">
         <mark key="]" line="22" column="74" />
@@ -633,11 +732,10 @@
         <mark key="." line="8" column="14" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/label305/idcloud/Android/build.gradle" timestamp="1448455956492">
-        <mark key="]" line="7" column="55" />
-        <mark key="^" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-        <mark key="[" line="7" column="50" />
+      <file name="$USER_HOME$/dev/label305/slimbeam/data-slimbeam/src/main/kotlin/com/label305/nohrd/slimbeam/data_slimbeam/MyBuffer.kt" timestamp="1449398190485">
+        <mark key="]" line="27" column="40" />
+        <mark key="." line="27" column="0" />
+        <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/rp3-rowing-android/build.gradle" timestamp="1446805639772">
         <mark key="]" line="28" column="47" />
@@ -645,17 +743,17 @@
         <mark key="." line="28" column="47" />
         <mark key="[" line="28" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/label305/idcloud/Android/build.gradle" timestamp="1448455956492">
+        <mark key="]" line="7" column="55" />
+        <mark key="^" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="[" line="7" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/Test.kt" timestamp="1447398928347">
         <mark key="]" line="4" column="42" />
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
         <mark key="[" line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/nhaarman/AreYouSafe/app/build.gradle" timestamp="1447499358524">
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="[" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/MainActivity.java" timestamp="1447446365402">
         <mark key="]" line="50" column="41" />
@@ -663,18 +761,17 @@
         <mark key="." line="50" column="41" />
         <mark key="[" line="48" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/nhaarman/AreYouSafe/app/build.gradle" timestamp="1447499358524">
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/res/layout-land/view_inbox.xml" timestamp="1447447529766">
         <mark key="]" line="112" column="43" />
         <mark key="^" line="112" column="43" />
         <mark key="." line="112" column="43" />
         <mark key="[" line="111" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/selectsite/SelectSitePresenter.java" timestamp="1448975110721">
-        <mark key="'" line="24" column="24" />
-        <mark key="]" line="40" column="43" />
-        <mark key="^" line="40" column="43" />
-        <mark key="." line="40" column="43" />
-        <mark key="[" line="38" column="30" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad-tests/build.gradle" timestamp="1448707866349">
         <mark key="]" line="21" column="0" />
@@ -687,6 +784,12 @@
         <mark key="^" line="1" column="61" />
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/files/FilesListView.kt" timestamp="1449346952524">
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/api/src/main/java/com/nhaarman/github/api/RepoApi.java" timestamp="1447601767311">
         <mark key="]" line="56" column="23" />
@@ -717,17 +820,17 @@
         <mark key="." line="13" column="40" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/res/layout/view_drawer.xml" timestamp="1447610863923">
-        <mark key="]" line="81" column="35" />
-        <mark key="^" line="81" column="35" />
-        <mark key="." line="81" column="35" />
-        <mark key="[" line="81" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/drawer/DrawerPresenter.java" timestamp="1447366559473">
         <mark key="]" line="60" column="9" />
         <mark key="^" line="60" column="9" />
         <mark key="." line="60" column="9" />
         <mark key="[" line="60" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/res/layout/view_drawer.xml" timestamp="1447610863923">
+        <mark key="]" line="81" column="35" />
+        <mark key="^" line="81" column="35" />
+        <mark key="." line="81" column="35" />
+        <mark key="[" line="81" column="30" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/res/layout/view_authorization.xml" timestamp="1447611065484">
         <mark key="]" line="51" column="36" />
@@ -777,16 +880,22 @@
         <mark key="." line="35" column="5" />
         <mark key="[" line="34" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/res/layout/view_searchlist_group.xml" timestamp="1448448558633">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/main/MainPresenter.kt" timestamp="1447603438013">
         <mark key="]" line="120" column="0" />
         <mark key="^" line="36" column="55" />
         <mark key="." line="120" column="0" />
         <mark key="[" line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/res/layout/view_searchlist_group.xml" timestamp="1448448558633">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/test/java/com/nedap/retail/idcloud/settings/advanced/SettingsAdvancedPresenterTest.java" timestamp="1449569465489">
+        <mark key="]" line="82" column="53" />
+        <mark key="^" line="82" column="53" />
+        <mark key="." line="82" column="53" />
+        <mark key="[" line="79" column="57" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/test/java/com/nedap/retail/idcloud/count/LiveItemsScannedPresenterTest.java" timestamp="1446817677674">
         <mark key="]" line="53" column="40" />
@@ -812,11 +921,11 @@
         <mark key="." line="41" column="19" />
         <mark key="[" line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/fragment/MainMenuFragment.java" timestamp="1447163167858">
-        <mark key="]" line="107" column="37" />
-        <mark key="^" line="107" column="37" />
-        <mark key="." line="107" column="37" />
-        <mark key="[" line="107" column="30" />
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/idhandstatus/IdHandStatusFragment.java" timestamp="1449585683593">
+        <mark key="]" line="33" column="67" />
+        <mark key="^" line="33" column="67" />
+        <mark key="." line="33" column="67" />
+        <mark key="[" line="33" column="68" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/gradle/publishing.gradle" timestamp="1448702994836">
         <mark key="]" line="9" column="21" />
@@ -824,16 +933,28 @@
         <mark key="." line="9" column="21" />
         <mark key="[" line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/MainActivity.java" timestamp="1447060430554">
-        <mark key="]" line="8" column="78" />
-        <mark key="^" line="8" column="78" />
-        <mark key="." line="8" column="78" />
-        <mark key="[" line="8" column="57" />
+      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/fragment/MainMenuFragment.java" timestamp="1447163167858">
+        <mark key="]" line="107" column="37" />
+        <mark key="^" line="107" column="37" />
+        <mark key="." line="107" column="37" />
+        <mark key="[" line="107" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/program/manual/ProgramManualActivity.java" timestamp="1449586524502">
+        <mark key="]" line="48" column="47" />
+        <mark key="^" line="48" column="47" />
+        <mark key="." line="48" column="47" />
+        <mark key="[" line="47" column="32" />
       </file>
       <file name="$USER_HOME$/dev/label305/rp3-rowing-android/app/src/test/java/com/label305/row_perfect/util/WattCalculatorTest.java" timestamp="1447751648574">
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="[" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/MainActivity.java" timestamp="1447060430554">
+        <mark key="]" line="8" column="78" />
+        <mark key="^" line="8" column="78" />
+        <mark key="." line="8" column="78" />
+        <mark key="[" line="8" column="57" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/mockito/src/main/kotlin/com/nhaarman/mockito/MatcherExtension.kt" timestamp="1448726905936">
         <mark key="]" line="4" column="119" />
@@ -858,6 +979,12 @@
         <mark key="^" line="98" column="40" />
         <mark key="." line="98" column="40" />
         <mark key="[" line="97" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/test/java/com/nedap/retail/idcloud/idhandstatus/IdHandStatusPresenterTest.java" timestamp="1449585732018">
+        <mark key="]" line="47" column="3" />
+        <mark key="^" line="47" column="3" />
+        <mark key="." line="47" column="3" />
+        <mark key="[" line="46" column="5" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/retrieveuser/RetrieveUserView.java" timestamp="1447367062927">
         <mark key="]" line="39" column="24" />
@@ -889,6 +1016,12 @@
         <mark key="." line="90" column="35" />
         <mark key="[" line="90" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/files/FilePresenter.kt" timestamp="1449346933688">
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/.gitignore" timestamp="1448625231309">
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -900,29 +1033,34 @@
         <mark key="." line="30" column="92" />
         <mark key="[" line="30" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/res/values/dimens.xml" timestamp="1447763075698">
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="34" />
-        <mark key="." line="18" column="33" />
-        <mark key="[" line="18" column="32" />
-      </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/res/layout/activity_search.xml" timestamp="1447766359335">
         <mark key="]" line="43" column="51" />
         <mark key="^" line="43" column="51" />
         <mark key="." line="43" column="51" />
         <mark key="[" line="43" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/PullRequestsCardContainer.kt" timestamp="1448801567360">
-        <mark key="]" line="6" column="51" />
-        <mark key="^" line="6" column="51" />
-        <mark key="." line="6" column="51" />
-        <mark key="[" line="6" column="32" />
+      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/res/values/dimens.xml" timestamp="1447763075698">
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="18" column="33" />
+        <mark key="[" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/label305/regioapps/app/src/twente/res/layout/view_drawer.xml" timestamp="1447063434504">
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="[" line="5" column="38" />
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/settings/advanced/SettingsAdvancedView.java" timestamp="1449569309192">
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
+        <mark key="[" line="8" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/PullRequestsCardContainer.kt" timestamp="1449348780459">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/program/barcode/ProgramBarcodePresenter.java" timestamp="1449584806386">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad/build.gradle" timestamp="1448703079048">
         <mark key="]" line="30" column="20" />
@@ -930,14 +1068,22 @@
         <mark key="." line="30" column="20" />
         <mark key="[" line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/IssuesCardView.kt" timestamp="1448801374868">
-        <mark key="]" line="28" column="8" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="28" column="8" />
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/dev/label305/regioapps/app/src/twente/res/layout/view_drawer.xml" timestamp="1447063434504">
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/res/layout/custom_barcode_scanner.xml" timestamp="1448971073440">
-        <mark key="[" line="21" column="44" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/IssuesCardView.kt" timestamp="1449348770052">
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/countlocation/CheckAndSendButton.java" timestamp="1449225350960">
+        <mark key="]" line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="[" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/test/java/com/nedap/retail/idcloud/searcharticles/ArticleItemAdapterTest.java" timestamp="1448615283056">
         <mark key="]" line="159" column="30" />
@@ -951,27 +1097,27 @@
         <mark key="." line="35" column="15" />
         <mark key="[" line="34" column="58" />
       </file>
-      <file name="$USER_HOME$/dev/label305/idcloud/Android/business_logic/src/main/java/com/nedap/retail/idcloud/cyclecount/CountedStock.java" timestamp="1447405321393">
-        <mark key="]" line="39" column="50" />
-        <mark key="^" line="39" column="68" />
-        <mark key="." line="39" column="50" />
-        <mark key="[" line="39" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/main/InboxTransitionAnimator.kt" timestamp="1447603057718">
         <mark key="]" line="12" column="8" />
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="8" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/test/java/com/nhaarman/github/app/repo/RepoAppBarPresenterTest.kt" timestamp="1447796610589">
-        <mark key="]" line="214" column="78" />
-        <mark key="." line="214" column="78" />
-        <mark key="[" line="214" column="78" />
+      <file name="$USER_HOME$/dev/label305/idcloud/Android/business_logic/src/main/java/com/nedap/retail/idcloud/cyclecount/CountedStock.java" timestamp="1447405321393">
+        <mark key="]" line="39" column="50" />
+        <mark key="^" line="39" column="68" />
+        <mark key="." line="39" column="50" />
+        <mark key="[" line="39" column="50" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/android.gradle" timestamp="1448702914945">
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/test/java/com/nhaarman/github/app/repo/RepoAppBarPresenterTest.kt" timestamp="1447796610589">
+        <mark key="]" line="214" column="78" />
+        <mark key="." line="214" column="78" />
+        <mark key="[" line="214" column="78" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/res/layout/view_main_event.xml" timestamp="1447617773123">
         <mark key="]" line="54" column="0" />
@@ -1001,17 +1147,17 @@
         <mark key="." line="118" column="0" />
         <mark key="[" line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/wt/persistence-memory/src/main/kotlin/com/nhaarman/wt/business/EntriesRepository.kt" timestamp="1446907114540">
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/build.gradle" timestamp="1448797444303">
         <mark key="]" line="88" column="27" />
         <mark key="^" line="88" column="27" />
         <mark key="." line="88" column="27" />
         <mark key="[" line="87" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/wt/persistence-memory/src/main/kotlin/com/nhaarman/wt/business/EntriesRepository.kt" timestamp="1446907114540">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/checkandsend/CheckAndSendActivity.java" timestamp="1447150717812">
         <mark key="]" line="22" column="16" />
@@ -1079,11 +1225,10 @@
         <mark key="." line="19" column="53" />
         <mark key="[" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/res/layout/view_repo.xml" timestamp="1448801627371">
-        <mark key="]" line="83" column="57" />
-        <mark key="^" line="83" column="57" />
-        <mark key="." line="83" column="57" />
-        <mark key="[" line="83" column="38" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/res/layout/view_repo.xml" timestamp="1449339480983">
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/build.gradle" timestamp="1448456012141">
         <mark key="]" line="4" column="30" />
@@ -1113,11 +1258,11 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoAppBarView.kt" timestamp="1448731671259">
-        <mark key="]" line="62" column="29" />
-        <mark key="^" line="62" column="29" />
-        <mark key="." line="62" column="29" />
-        <mark key="[" line="62" column="29" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoAppBarView.kt" timestamp="1449348816181">
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/TestClass.kt" timestamp="1447398896688">
         <mark key="]" line="5" column="52" />
@@ -1131,6 +1276,12 @@
         <mark key="." line="55" column="60" />
         <mark key="[" line="55" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/label305/slimbeam/lib/src/main/kotlin/com/label305/nohrd/slimbeam/lib/CycleBuilder.kt" timestamp="1449735015322">
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/MainActivity.kt" timestamp="1447541628575">
         <mark key="]" line="41" column="81" />
         <mark key="^" line="41" column="65" />
@@ -1143,11 +1294,11 @@
         <mark key="." line="34" column="34" />
         <mark key="[" line="34" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoScreen.kt" timestamp="1448910853147">
-        <mark key="]" line="64" column="38" />
-        <mark key="^" line="64" column="38" />
-        <mark key="." line="64" column="38" />
-        <mark key="[" line="63" column="22" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoScreen.kt" timestamp="1449341845130">
+        <mark key="]" line="79" column="36" />
+        <mark key="^" line="79" column="36" />
+        <mark key="." line="79" column="36" />
+        <mark key="[" line="78" column="60" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/checkandsend/DifferenceListFragment.java" timestamp="1447085689382">
         <mark key="]" line="22" column="48" />
@@ -1161,7 +1312,7 @@
         <mark key="." line="33" column="85" />
         <mark key="[" line="33" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1448910050837">
+      <file name="/Dummy.txt" timestamp="1449734973691">
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1218,6 +1369,17 @@
         <mark key="." line="41" column="0" />
         <mark key="[" line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/searcharticles/SearchArticlesFragment.java" timestamp="1449586299574">
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="[" line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/settings/SettingsAdvancedActivity.java" timestamp="1449565791547">
+        <mark key="]" line="97" column="82" />
+        <mark key="^" line="97" column="82" />
+        <mark key="." line="97" column="82" />
+        <mark key="[" line="96" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad/src/main/java/com/nhaarman/triad/NewTransitionAnimator.java" timestamp="1447328033316">
         <mark key="]" line="8" column="17" />
         <mark key="^" line="8" column="17" />
@@ -1229,6 +1391,12 @@
         <mark key="^" line="155" column="52" />
         <mark key="." line="155" column="52" />
         <mark key="[" line="154" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/files/FilesListContainer.kt" timestamp="1449346942840">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/countlocation/TitleFragment.java" timestamp="1447404878398">
         <mark key="]" line="39" column="30" />
@@ -1248,10 +1416,21 @@
         <mark key="." line="161" column="35" />
         <mark key="[" line="161" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoAppBarPresenter.kt" timestamp="1449348810002">
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad-sample/business/src/main/java/com/nhaarman/triad/sample/NoteValidator.java" timestamp="1448703930177">
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="[" line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/files/FileView.kt" timestamp="1449346955756">
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="25" column="0" />
+        <mark key="[" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/res/layout/fragment_select_site.xml" timestamp="1448974008939">
         <mark key="]" line="3" column="38" />
@@ -1294,6 +1473,12 @@
         <mark key="^" line="34" column="42" />
         <mark key="." line="35" column="0" />
         <mark key="[" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/test/java/com/nedap/retail/idcloud/program/write/ProgramWritePresenterTest.java" timestamp="1449592193393">
+        <mark key="]" line="129" column="106" />
+        <mark key="^" line="129" column="106" />
+        <mark key="." line="129" column="106" />
+        <mark key="[" line="128" column="29" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/difference/DifferenceListView.java" timestamp="1447423471807">
         <mark key="]" line="54" column="32" />
@@ -1383,10 +1568,13 @@
         <mark key="." line="32" column="0" />
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoView.kt" timestamp="1448801646193">
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoView.kt" timestamp="1449349243104">
+        <mark key="[" line="31" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/api/src/main/kotlin/com/nhaarman/github/api/ApiFactory.kt" timestamp="1449334935008">
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="[" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/rp3-rowing-android/app/src/main/res/layout/view_overview.xml" timestamp="1446807271060">
         <mark key="]" line="68" column="0" />
@@ -1465,6 +1653,12 @@
         <mark key="." line="53" column="42" />
         <mark key="[" line="52" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/program/write/ProgramWriteActivity.java" timestamp="1449655898820">
+        <mark key="]" line="79" column="66" />
+        <mark key="^" line="79" column="66" />
+        <mark key="." line="79" column="66" />
+        <mark key="[" line="79" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/searcharticles/SearchArticlesFragment.java" timestamp="1448455059625">
         <mark key="]" line="97" column="17" />
         <mark key="^" line="97" column="17" />
@@ -1477,11 +1671,23 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/search/list/SearchListActivity.java" timestamp="1449586541446">
+        <mark key="]" line="30" column="47" />
+        <mark key="^" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+        <mark key="[" line="29" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/count/LiveItemsScannedPresenter.java" timestamp="1446817628688">
         <mark key="]" line="103" column="75" />
         <mark key="^" line="103" column="56" />
         <mark key="." line="103" column="0" />
         <mark key="[" line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/files/FileContainer.kt" timestamp="1449346938800">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad-sample/app/build.gradle" timestamp="1448703511250">
         <mark key="]" line="25" column="21" />
@@ -1530,6 +1736,12 @@
         <mark key="." line="339" column="24" />
         <mark key="[" line="339" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/settings/advanced/SettingsAdvancedActivity.java" timestamp="1449570111518">
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="103" column="35" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/model/src/main/java/com/nhaarman/github/model/Repo.java" timestamp="1447501792350">
         <mark key="]" line="169" column="19" />
         <mark key="^" line="169" column="19" />
@@ -1564,6 +1776,9 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
         <mark key="[" line="15" column="19" />
+      </file>
+      <file name="/a.dummy" timestamp="1449590638667">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad-appcompat-v7/build.gradle" timestamp="1448703314445">
         <mark key="]" line="26" column="0" />
@@ -1618,6 +1833,17 @@
         <mark key="." line="26" column="3" />
         <mark key="[" line="25" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/program/list/ProgramListActivity.java" timestamp="1449586438510">
+        <mark key="]" line="30" column="47" />
+        <mark key="^" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+        <mark key="[" line="29" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/countlocation/CheckAndSendButtonFragment.java" timestamp="1449237750242">
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="[" line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/searcharticles/ArticleProvider.java" timestamp="1448444362565">
         <mark key="]" line="13" column="34" />
         <mark key="^" line="13" column="34" />
@@ -1659,9 +1885,7 @@
         <mark key="." line="47" column="33" />
         <mark key="[" line="47" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1448910041617">
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="26" />
+      <file name="/fragment.java" timestamp="1449734981707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/business/build.gradle" timestamp="1448794400779">
@@ -1681,6 +1905,12 @@
         <mark key="." line="9" column="58" />
         <mark key="[" line="9" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/program/write/InvalidGtinException.java" timestamp="1449586749584">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad/src/main/java/com/nhaarman/triad/Backstack.java" timestamp="1447333122638">
         <mark key="]" line="48" column="2" />
         <mark key="^" line="101" column="9" />
@@ -1692,6 +1922,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
         <mark key="[" line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/androidTest/java/com/nedap/retail/idcloud/searcharticles/ItemTest.java" timestamp="1449219719731">
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="[" line="16" column="8" />
       </file>
       <file name="$USER_HOME$/dev/label305/rp3-rowing-android/app/src/main/java/com/label305/row_perfect/app/MainActivity.java" timestamp="1446809244080">
         <mark key="]" line="116" column="14" />
@@ -1765,12 +2001,13 @@
         <mark key="." line="49" column="0" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/build.gradle" timestamp="1448703153013">
-        <mark key="]" line="10" column="66" />
-        <mark key="." line="16" column="22" />
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/dev/nhaarman/github/build.gradle" timestamp="1449327346559">
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+        <mark key="[" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/gradle/wrapper/gradle-wrapper.properties" timestamp="1447793514342">
+      <file name="$USER_HOME$/dev/nhaarman/github/gradle/wrapper/gradle-wrapper.properties" timestamp="1449327610732">
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="[" line="5" column="68" />
@@ -1780,6 +2017,12 @@
         <mark key="^" line="174" column="85" />
         <mark key="." line="177" column="37" />
         <mark key="[" line="177" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/res/drawable/selector_text_black.xml" timestamp="1449226227228">
+        <mark key="]" line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="[" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/settings.gradle" timestamp="1448793269875">
         <mark key="]" line="10" column="0" />
@@ -1797,10 +2040,11 @@
         <mark key="." line="61" column="48" />
         <mark key="[" line="61" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/PullRequestsCardView.kt" timestamp="1448909018673">
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/PullRequestsCardView.kt" timestamp="1449348793066">
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="0" />
+        <mark key="[" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/res/layout/fragment_status_events_header.xml" timestamp="1448979593442">
         <mark key="]" line="27" column="30" />
@@ -1855,11 +2099,11 @@
         <mark key="." line="13" column="32" />
         <mark key="[" line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoPresenter.kt" timestamp="1448910480188">
-        <mark key="]" line="29" column="37" />
-        <mark key="^" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="[" line="28" column="30" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoPresenter.kt" timestamp="1449348827705">
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/ScrollViewContainer.java" timestamp="1447367794047">
         <mark key="]" line="30" column="21" />
@@ -1991,17 +2235,17 @@
         <mark key="." line="42" column="79" />
         <mark key="[" line="42" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/DataLoadedListener.kt" timestamp="1448909594813">
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="[" line="4" column="8" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/DataLoadedListener.kt" timestamp="1449341724893">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/myrepos/MyReposView.kt" timestamp="1447600507156">
-        <mark key="]" line="143" column="51" />
-        <mark key="^" line="139" column="35" />
-        <mark key="." line="143" column="51" />
-        <mark key="[" line="143" column="51" />
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/settings/advanced/DataClearer.java" timestamp="1449570106356">
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="[" line="45" column="73" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/wt/app/build.gradle" timestamp="1446906417945">
         <mark key="]" line="36" column="33" />
@@ -2009,16 +2253,27 @@
         <mark key="." line="36" column="33" />
         <mark key="[" line="35" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/res/layout/view_searchlist_child_divider.xml" timestamp="1448450933680">
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/myrepos/MyReposView.kt" timestamp="1447600507156">
+        <mark key="]" line="143" column="51" />
+        <mark key="^" line="139" column="35" />
+        <mark key="." line="143" column="51" />
+        <mark key="[" line="143" column="51" />
       </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/otherregions/OtherRegionsView.java" timestamp="1447062397737">
         <mark key="]" line="14" column="101" />
         <mark key="^" line="14" column="101" />
         <mark key="." line="14" column="101" />
         <mark key="[" line="13" column="85" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/res/layout/view_searchlist_child_divider.xml" timestamp="1448450933680">
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/slimbeam/data/src/main/kotlin/com/label305/nohrd/slimbeam/data/DataProvider.kt" timestamp="1449683716584">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/main/receivedevents/ReceivedEventsPresenter.java" timestamp="1447366660873">
         <mark key="]" line="194" column="15" />
@@ -2031,6 +2286,12 @@
         <mark key="^" line="35" column="18" />
         <mark key="." line="35" column="18" />
         <mark key="[" line="35" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/devices/idhandv2-java/src/main/java/com/nedap/retail/idcloud/devices/idhandv2/RfidReaderImpl.java" timestamp="1449585137687">
+        <mark key="]" line="432" column="23" />
+        <mark key="^" line="432" column="23" />
+        <mark key="." line="432" column="23" />
+        <mark key="[" line="431" column="42" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/authorization/AuthorizationView.kt" timestamp="1447616128197">
         <mark key="]" line="36" column="22" />
@@ -2049,6 +2310,12 @@
         <mark key="^" line="10" column="60" />
         <mark key="." line="10" column="60" />
         <mark key="[" line="10" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/program/barcode/ProgramBarcodeActivity.java" timestamp="1449586501718">
+        <mark key="]" line="68" column="48" />
+        <mark key="^" line="68" column="48" />
+        <mark key="." line="68" column="48" />
+        <mark key="[" line="67" column="32" />
       </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/java/com/nedap/retail/idcloud/count/LiveDifferenceListFragment.java" timestamp="1446823610144">
         <mark key="]" line="16" column="59" />
@@ -2091,6 +2358,12 @@
         <mark key="." line="89" column="75" />
         <mark key="[" line="89" column="75" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/res/layout/activity_count_location.xml" timestamp="1449221082762">
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="54" column="86" />
+        <mark key="." line="57" column="0" />
+        <mark key="[" line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/test/kotlin/com/nhaarman/github/app/PresenterTestBase.kt" timestamp="1447800303846">
         <mark key="]" line="70" column="0" />
         <mark key="^" line="49" column="47" />
@@ -2109,11 +2382,11 @@
         <mark key="." line="63" column="64" />
         <mark key="[" line="63" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/test/kotlin/com/nhaarman/github/app/myrepos/ReadmePresenterTest.kt" timestamp="1448797583577">
-        <mark key="]" line="83" column="9" />
-        <mark key="^" line="82" column="11" />
-        <mark key="." line="83" column="9" />
-        <mark key="[" line="83" column="9" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/test/kotlin/com/nhaarman/github/app/myrepos/ReadmePresenterTest.kt" timestamp="1449350280340">
+        <mark key="]" line="74" column="13" />
+        <mark key="^" line="73" column="10" />
+        <mark key="." line="74" column="13" />
+        <mark key="[" line="74" column="13" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/inbox/RepoNotificationView.java" timestamp="1447508976222">
         <mark key="]" line="28" column="0" />
@@ -2127,17 +2400,29 @@
         <mark key="." line="64" column="0" />
         <mark key="[" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/Triad/triad/src/main/java/com/nhaarman/triad/AdapterContainer.java" timestamp="1447325070777">
-        <mark key="]" line="24" column="79" />
-        <mark key="^" line="24" column="79" />
-        <mark key="." line="24" column="79" />
-        <mark key="[" line="24" column="52" />
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/idhandstatus/IdHandStatusProvider.java" timestamp="1449579176191">
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/calendar/CalendarView.java" timestamp="1447062482480">
         <mark key="]" line="30" column="93" />
         <mark key="^" line="30" column="93" />
         <mark key="." line="30" column="93" />
         <mark key="[" line="29" column="77" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/Triad/triad/src/main/java/com/nhaarman/triad/AdapterContainer.java" timestamp="1447325070777">
+        <mark key="]" line="24" column="79" />
+        <mark key="^" line="24" column="79" />
+        <mark key="." line="24" column="79" />
+        <mark key="[" line="24" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/files/FilesListPresenter.kt" timestamp="1449346948628">
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="36" column="40" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/Triad/triad/src/main/java/com/nhaarman/triad/Container.java" timestamp="1447324625041">
         <mark key="]" line="25" column="71" />
@@ -2156,6 +2441,12 @@
         <mark key="^" line="248" column="110" />
         <mark key="." line="248" column="110" />
         <mark key="[" line="248" column="70" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/program/write/ProgramWriteView.java" timestamp="1449590677496">
+        <mark key="]" line="63" column="47" />
+        <mark key="^" line="63" column="47" />
+        <mark key="." line="63" column="47" />
+        <mark key="[" line="63" column="26" />
       </file>
       <file name="$USER_HOME$/dev/label305/regioapps/app/src/main/java/com/label305/regioapp/aboutregion/AboutRegionPresenter.java" timestamp="1447062970258">
         <mark key="]" line="8" column="90" />
@@ -2211,6 +2502,12 @@
         <mark key="." line="39" column="82" />
         <mark key="[" line="39" column="78" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/program/write/ProgramWritePresenter.java" timestamp="1449592206369">
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="88" column="44" />
+        <mark key="." line="104" column="0" />
+        <mark key="[" line="104" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/main/res/layout/view_programlist_child.xml" timestamp="1448448512833">
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -2228,11 +2525,11 @@
         <mark key="." line="20" column="62" />
         <mark key="[" line="20" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/test/kotlin/com/nhaarman/github/app/myrepos/WeeklyCommitCountPresenterTest.kt" timestamp="1448797601539">
-        <mark key="]" line="66" column="11" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/test/kotlin/com/nhaarman/github/app/myrepos/WeeklyCommitCountPresenterTest.kt" timestamp="1449346398093">
+        <mark key="]" line="57" column="4" />
         <mark key="^" line="66" column="11" />
-        <mark key="." line="66" column="11" />
-        <mark key="[" line="63" column="9" />
+        <mark key="." line="57" column="4" />
+        <mark key="[" line="57" column="4" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/test/kotlin/com/nhaarman/github/app/repo/IssuesCardPresenterTest.kt" timestamp="1448910618266">
         <mark key="]" line="33" column="38" />
@@ -2257,16 +2554,34 @@
         <mark key="." line="13" column="19" />
         <mark key="[" line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/settings/advanced/DatabaseClearer.java" timestamp="1449566422645">
+        <mark key="]" line="42" column="31" />
+        <mark key="^" line="42" column="31" />
+        <mark key="." line="42" column="31" />
+        <mark key="[" line="42" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/idhandstatus/IdHandStatusPresenter.java" timestamp="1449585526137">
+        <mark key="]" line="34" column="71" />
+        <mark key="^" line="34" column="71" />
+        <mark key="." line="34" column="71" />
+        <mark key="[" line="34" column="36" />
+      </file>
       <file name="$USER_HOME$/dev/label305/idcloud/Android/app/src/test/java/com/nedap/retail/idcloud/checkandsend/ProgressPresenterTest.java" timestamp="1447159067725">
         <mark key="]" line="90" column="28" />
         <mark key="^" line="68" column="27" />
         <mark key="." line="90" column="0" />
         <mark key="[" line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoContainer.kt" timestamp="1448801652743">
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/dev/label305/retail-idcloud-app-android/business_logic/src/main/java/com/nedap/retail/idcloud/flow/CommissionSessionImpl.java" timestamp="1449584379666">
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="[" line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/nhaarman/Triad/README.md" timestamp="1447327567881">
+        <mark key="]" line="125" column="29" />
+        <mark key="^" line="125" column="29" />
+        <mark key="." line="125" column="29" />
+        <mark key="[" line="125" column="26" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/wt/app/src/main/kotlin/com/nhaarman/wt/WTApplication.kt" timestamp="1446903348391">
         <mark key="]" line="6" column="45" />
@@ -2274,11 +2589,11 @@
         <mark key="." line="6" column="45" />
         <mark key="[" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/nhaarman/Triad/README.md" timestamp="1447327567881">
-        <mark key="]" line="125" column="29" />
-        <mark key="^" line="125" column="29" />
-        <mark key="." line="125" column="29" />
-        <mark key="[" line="125" column="26" />
+      <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/kotlin/com/nhaarman/github/app/repo/RepoContainer.kt" timestamp="1449348824008">
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="20" column="0" />
+        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/nhaarman/github/app/src/main/java/com/nhaarman/github/app/authorization/AuthorizationScreen.java" timestamp="1447367531284">
         <mark key="]" line="51" column="0" />
@@ -2334,49 +2649,58 @@
       <jump line="41" column="87" filename="$USER_HOME$/dev/nhaarman/Triad/triad-tests/src/androidTest/java/com/nhaarman/triad/ForwardScreenTransitionTest.java" />
       <jump line="41" column="20" filename="$USER_HOME$/dev/nhaarman/github/app/src/test/kotlin/com/nhaarman/github/app/repo/IssuesCardPresenterTest.kt" />
       <jump line="24" column="24" filename="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/selectsite/SelectSitePresenter.java" />
+      <jump line="669" column="13" filename="/opt/android-sdk/sources/android-23/android/app/Activity.java" />
+      <jump line="27" column="39" filename="$USER_HOME$/dev/label305/retail-idcloud-app-android/app/src/main/java/com/nedap/retail/idcloud/settings/advanced/SettingsAdvancedPresenter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Medium</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2lkY2xvdWRfaGlnaGxpZ2h0Igo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWJlbDMwNS5ub2hyZC5zbGltYmVhbS5saWIubWVzc2FnZS5CdXR0ZXJmbHlNZXNzYWdlCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>small_padding</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWJlbDMwNS5ub2hyZC5zbGltYmVhbS5saWIubWVzc2FnZS5XZWlnaHRNZXNzYWdlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Medium</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWJlbDMwNS5ub2hyZC5zbGltYmVhbS5saWIubWVzc2FnZS5EYXRhTWVzc2FnZQo=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL2lkY2xvdWRfaGlnaGxpZ2h0Igo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWJlbDMwNS5ub2hyZC5zbGltYmVhbS5saWIubWVzc2FnZS5XZWlnaHRNZXNzYWdlCg==</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQogICAgcHJpdmF0ZSBTdWJzY3JpcHRpb24gbVdyaXRlU3Vic2NyaXB0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBcHBlYXJhbmNlPSI/YW5kcm9pZDp0ZXh0QXBwZWFyYW5jZU1lZGl1bSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBbGxDYXBzPSJ0cnVlIgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWJlbDMwNS5ub2hyZC5zbGltYmVhbS5saWIubWVzc2FnZS5CdXR0ZXJmbHlNZXNzYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvdGl0bGVfZXZlbnRzIgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWJlbDMwNS5ub2hyZC5zbGltYmVhbS5saWIubWVzc2FnZS5EYXRhTWVzc2FnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9pZGNsb3VkX2xpZ2h0ZXJfaGlnaGxpZ2h0Igo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sYWJlbDMwNS5ub2hyZC5zbGltYmVhbS5saWIubWVzc2FnZS5XZWlnaHRNZXNzYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCg==</text>
+      <register name="9" type="4">
+        <text>fun test(data: Data) {
+    val hx = if (data.hx == null) data.hx * 5 else null
+    val h2 = data.hx.let { if (it != null) it * 5 else null }
+    var h3 = data.hx
+    if (h3 != null) h3 *= 5
+    var h3 = data.hx?.times(4)
+    var h4 = data.hx
+}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>Medium</text>
+        <text>Subscription s =</text>
       </register>
     </registers>
     <search>

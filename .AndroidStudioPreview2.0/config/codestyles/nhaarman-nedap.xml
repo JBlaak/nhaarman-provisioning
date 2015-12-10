@@ -171,7 +171,6 @@
     <option name="BLANK_LINES_BEFORE_IMPORTS" value="2" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
-    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
@@ -617,9 +616,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="6" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
