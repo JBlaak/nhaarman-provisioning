@@ -3,18 +3,21 @@
     <context>
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_COMMENT" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
   <template name="then" value="/* Then */&#10;" description="/* Then */" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_COMMENT" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
   <template name="given" value="/* Given */&#10;" description="/* Given */" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_COMMENT" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
