@@ -10,7 +10,7 @@ read -p "Install PHP development tools? [Y/n]: " php
 read -p "Install latex tools (texstudio, texlive, texlive-math-extra)? [Y/n]: " latex
 read -p "Install Spotify? [Y/n]: " spotify
 read -p "Install VLC? [Y/n]: " vlc
-read -p "Install Flux? [Y/n]: " flux
+read -p "Install Redshift? [Y/n]: " redshift
 read -p "Install LTUnify? [Y/n]: " ltunify
 read -p "Install BitTorrent Sync? [Y/n]: " btsync
 read -p "Install brightness indicator? [Y/n]: " brightness
@@ -32,7 +32,7 @@ sudo apt-get upgrade -y
 ./latex.sh
 ./spotify.sh
 ./vlc.sh
-./flux.sh
+./redshift.sh
 ./ltunify.sh
 ./btsync.sh
 ./brightness-indicator.sh
